@@ -2,9 +2,9 @@
 
 <h2 align="left">About me:</h2>
 <ul>
-  <li>2nd-year M.Sc student in Information Technology at KTH Royal Institute of Technology, Stockholm.</li>
-  <li>Started programming in 2019 and has been hooked since then.</li>
-  <li>In my spare time, I like to ski, play golf, and spend time with friends and family.</li>
+  <li> 🏫 2nd-year M.Sc student in Information Technology at KTH Royal Institute of Technology, Stockholm.</li>
+  <li> 💻 Started programming in 2019 and has been hooked since then.</li>
+  <li> ⛷️ In my spare time, I like to ski, play golf, and spend time with friends and family .</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
@@ -23,5 +23,3 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasmussjo&show_icons=true&locale=en&layout=compact" alt="rasmussjo" /></p>
