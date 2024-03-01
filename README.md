@@ -4,7 +4,7 @@
 <ul>
   <li> 🏫 2nd-year M.Sc student in Information Technology at KTH Royal Institute of Technology, Stockholm.</li>
   <li> 💻 Started programming in 2019 and has been hooked since then.</li>
-  <li> ⛷️ In my spare time, I like to ski, play golf, and spend time with friends and family .</li>
+  <li> ⛷️ In my spare time, I like to ski, play golf, and spend time with friends and family.</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
