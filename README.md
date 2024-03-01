@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rasmus Sjöberg</h1>
+<h2 align="center">Hi 👋, I'm Rasmus Sjöberg</h2>
 
-<h2 align="left">About me:</h2>
+<h3 align="left">About me:</h3>
 <ul>
   <li> 🏫 2nd-year M.Sc student in Information Technology at KTH Royal Institute of Technology, Stockholm.</li>
   <li> 💻 Started programming in 2019 and has been hooked since then.</li>
