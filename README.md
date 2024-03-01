@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Rasmus Sjöberg</h2>
+<h2 align="center">👋 Hi, I'm Rasmus Sjöberg</h2>
 
 <h3 align="left">About me:</h3>
 <ul>
