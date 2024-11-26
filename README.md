@@ -2,8 +2,7 @@
 
 <h3 align="left">About me:</h3>
 <ul>
-  <li> 🏫 2nd-year M.Sc student in Information Technology at KTH Royal Institute of Technology, Stockholm.</li>
-  <li> 💻 Started programming in 2019 and has been hooked since then.</li>
+  <li> 🏫 3rd-year M.Sc student in Information Technology at KTH Royal Institute of Technology, Stockholm.</li>
   <li> ⛷️ In my spare time, I like to ski, play golf, and spend time with friends and family.</li>
 </ul>
 
