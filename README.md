@@ -2,7 +2,7 @@
 
 <h3 align="left">About me:</h3>
 <ul>
-  <li> 🏫 3rd-year M.Sc student in Information Technology at KTH Royal Institute of Technology, Stockholm.</li>
+  <li> 🏫 4th year M.Sc student in Information Technology at KTH Royal Institute of Technology, Stockholm.</li>
   <li> ⛷️ In my spare time, I like to ski, play golf, and spend time with friends and family.</li>
 </ul>
 
